@@ -34,7 +34,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: 'https://github.com/jumadil94-hub/node-calculator.git/', // Tambahkan baris ini
+  base: '/node-calculator/', // Tambahkan baris ini
   // server: {
   //   host: true, // Tambahkan baris ini
   // },
