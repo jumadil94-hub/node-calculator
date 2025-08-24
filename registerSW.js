@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://github.com/jumadil94-hub/node-calculator.git/sw.js', { scope: 'https://github.com/jumadil94-hub/node-calculator.git/' })})}
